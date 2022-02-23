@@ -35,5 +35,7 @@ public class LineComparsion {
         LineComparsion f = new LineComparsion();
     Double len2 = f.length(p1, q1, p2, q2);
 		System.out.println("Second Line length is : "+len2+"");
+
 }
+
 }
